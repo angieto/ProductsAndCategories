@@ -1,0 +1,11 @@
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\bin\Debug\netcoreapp2.0\ProsNCats.deps.json
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\bin\Debug\netcoreapp2.0\ProsNCats.runtimeconfig.json
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\bin\Debug\netcoreapp2.0\ProsNCats.runtimeconfig.dev.json
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\bin\Debug\netcoreapp2.0\ProsNCats.dll
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\bin\Debug\netcoreapp2.0\ProsNCats.pdb
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\obj\Debug\netcoreapp2.0\ProsNCats.csprojAssemblyReference.cache
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\obj\Debug\netcoreapp2.0\ProsNCats.csproj.CoreCompileInputs.cache
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\obj\Debug\netcoreapp2.0\ProsNCats.AssemblyInfoInputs.cache
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\obj\Debug\netcoreapp2.0\ProsNCats.AssemblyInfo.cs
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\obj\Debug\netcoreapp2.0\ProsNCats.dll
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ProsNCats\obj\Debug\netcoreapp2.0\ProsNCats.pdb
